@@ -26,3 +26,6 @@ git commit -m "terserah mau isi apa"
 git pull # jangan lupa pull dulu!
 git push origin {NAMA_NRP}
 ```
+
+
+**HUZZAH**
